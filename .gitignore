@@ -1,0 +1,8 @@
+.node_modules
+.metadata
+.settings
+.classpath
+.project
+.idea
+*.iml
+.vscode
